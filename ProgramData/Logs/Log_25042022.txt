@@ -1,0 +1,66 @@
+25/04/2022 10:38:59 Nicelabel PrintEngine initialisé 
+25/04/2022 10:39:27 Nicelabel PrintEngine initialisé 
+25/04/2022 10:39:30 ImpressionNL imp. non trouvée : Select Imp. de pose
+25/04/2022 10:39:47 Nicelabel PrintEngine initialisé 
+25/04/2022 10:39:52 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 10:41:11 Nicelabel PrintEngine initialisé 
+25/04/2022 10:41:52 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 10:44:58 Nicelabel PrintEngine initialisé 
+25/04/2022 10:45:48 Nicelabel PrintEngine initialisé 
+25/04/2022 10:48:41 Nicelabel PrintEngine initialisé 
+25/04/2022 10:49:31 Nicelabel PrintEngine initialisé 
+25/04/2022 10:50:28 Nicelabel PrintEngine initialisé 
+25/04/2022 10:52:39 Nicelabel PrintEngine initialisé 
+25/04/2022 10:53:07 Nicelabel PrintEngine initialisé 
+25/04/2022 10:53:31 Nicelabel PrintEngine initialisé 
+25/04/2022 10:54:05 Nicelabel PrintEngine initialisé 
+25/04/2022 10:58:20 Nicelabel PrintEngine initialisé 
+25/04/2022 10:59:23 Nicelabel PrintEngine initialisé 
+25/04/2022 11:01:33 Nicelabel PrintEngine initialisé 
+25/04/2022 11:11:34 Nicelabel PrintEngine initialisé 
+25/04/2022 11:20:01 Nicelabel PrintEngine initialisé 
+25/04/2022 11:20:10 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 11:25:15 Nicelabel PrintEngine initialisé 
+25/04/2022 11:28:49 Nicelabel PrintEngine initialisé 
+25/04/2022 11:36:52 Nicelabel PrintEngine initialisé 
+25/04/2022 11:39:23 Nicelabel PrintEngine initialisé 
+25/04/2022 11:41:48 Nicelabel PrintEngine initialisé 
+25/04/2022 11:52:06 Nicelabel PrintEngine initialisé 
+25/04/2022 11:52:42 Nicelabel PrintEngine initialisé 
+25/04/2022 11:54:39 Nicelabel PrintEngine initialisé 
+25/04/2022 11:59:16 Nicelabel PrintEngine initialisé 
+25/04/2022 12:01:51 Nicelabel PrintEngine initialisé 
+25/04/2022 13:53:31 Nicelabel PrintEngine initialisé 
+25/04/2022 13:54:12 Nicelabel PrintEngine initialisé 
+25/04/2022 13:54:21 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 13:55:10 Nicelabel PrintEngine initialisé 
+25/04/2022 13:57:50 Nicelabel PrintEngine initialisé 
+25/04/2022 14:01:09 Nicelabel PrintEngine initialisé 
+25/04/2022 14:01:38 CopieDeFichier : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl ABSENT
+25/04/2022 14:01:40 Nicelabel PrintEngine initialisé 
+25/04/2022 14:03:48 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:03:50 Nicelabel PrintEngine initialisé 
+25/04/2022 14:05:33 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:05:35 Nicelabel PrintEngine initialisé 
+25/04/2022 14:07:15 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:07:17 Nicelabel PrintEngine initialisé 
+25/04/2022 14:16:25 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:16:27 Nicelabel PrintEngine initialisé 
+25/04/2022 14:18:47 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:18:49 Nicelabel PrintEngine initialisé 
+25/04/2022 14:20:56 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:20:57 Nicelabel PrintEngine initialisé 
+25/04/2022 14:22:58 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:23:00 Nicelabel PrintEngine initialisé 
+25/04/2022 14:25:24 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 14:25:26 Nicelabel PrintEngine initialisé 
+25/04/2022 14:26:09 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 16:52:30 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 16:52:32 Nicelabel PrintEngine initialisé 
+25/04/2022 16:53:38 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 16:53:40 Nicelabel PrintEngine initialisé 
+25/04/2022 16:54:49 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 16:54:51 Nicelabel PrintEngine initialisé 
+25/04/2022 16:54:59 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+25/04/2022 17:54:47 CopieDeFichier :  ABSENT : C:\DevPerf\Vs2017\Vm_Developpement\Vm_Developpement\ProgramData\Labels\LabTest.nlbl
+25/04/2022 17:54:48 Nicelabel PrintEngine initialisé 

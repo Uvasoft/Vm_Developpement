@@ -1,0 +1,2 @@
+28/04/2022 16:17:32 Nicelabel PrintEngine initialisé 
+28/04/2022 16:17:42 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL

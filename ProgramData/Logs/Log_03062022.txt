@@ -1,0 +1,7 @@
+03/06/2022 16:33:10 Nicelabel PrintEngine initialisé 
+03/06/2022 16:33:53 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+03/06/2022 16:34:35 Nicelabel PrintEngine initialisé 
+03/06/2022 16:34:43 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
+03/06/2022 16:37:51 Nicelabel PrintEngine initialisé 
+03/06/2022 16:39:12 Nicelabel PrintEngine initialisé 
+03/06/2022 16:39:23 Label:labtest.nlbl imprimé sur 'ZEBRA ZE500-6 LH-300dpi ZPL
